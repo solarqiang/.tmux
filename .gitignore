@@ -1,0 +1,6 @@
+# Ignore tmux-resurrect saves
+resurrect/
+
+# Ignore Plugins (to avoid troubles)
+plugins/
+
